@@ -1,0 +1,30 @@
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csprojAssemblyReference.cache
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema_Büfe_Stış_Paneli.Form1.resources
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema_Büfe_Stış_Paneli.Properties.Resources.resources
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csproj.GenerateResource.cache
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csproj.CoreCompileInputs.cache
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.exe.config
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.exe
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.pdb
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.exe
+C:\Users\Malib\Desktop\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.pdb
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.exe.config
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.exe
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.pdb
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csprojAssemblyReference.cache
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema_Büfe_Stış_Paneli.Form1.resources
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema_Büfe_Stış_Paneli.Properties.Resources.resources
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csproj.GenerateResource.cache
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csproj.CoreCompileInputs.cache
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.exe
+C:\Users\Malib\Desktop\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.pdb
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.exe.config
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.exe
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\bin\Debug\Sinema Büfe Stış Paneli.pdb
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csproj.AssemblyReference.cache
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema_Büfe_Stış_Paneli.Form1.resources
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema_Büfe_Stış_Paneli.Properties.Resources.resources
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csproj.GenerateResource.cache
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.csproj.CoreCompileInputs.cache
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.exe
+D:\C# & UNITY\C#\Sinema Büfe Stış Paneli\Sinema Büfe Stış Paneli\obj\Debug\Sinema Büfe Stış Paneli.pdb
